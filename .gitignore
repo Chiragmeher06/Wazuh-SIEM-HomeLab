@@ -1,0 +1,17 @@
+# Secrets and local files
+.env
+*.key
+*.pem
+*.pfx
+credentials*
+secrets*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large raw recordings
+*.mp4
+*.mov
+*.mkv
